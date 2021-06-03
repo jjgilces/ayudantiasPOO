@@ -7,4 +7,7 @@ Horario
 
 Horario de Consultas
 ### Viernes 7am
+
+
+[diapositivas]
 ''' 
