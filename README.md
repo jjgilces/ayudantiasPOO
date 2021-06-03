@@ -6,7 +6,7 @@ Horario
 ### Jueves: 4pm - 6pm
 
 Horario de Consultas
-### Viernes 7am
+### Sabado 7am
 
 
 [diapositivas]
