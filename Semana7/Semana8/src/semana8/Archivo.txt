@@ -1,0 +1,2 @@
+nombre,edad,calificacion
+johan,18,13

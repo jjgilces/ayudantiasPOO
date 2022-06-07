@@ -1,0 +1,6 @@
+Pelicula,rutaPoster,entradasDisponibles,genero,cine
+Lion King,lionking.jpg,7,infantil,Dorado
+La vida secreta de tus mascotas2,mascotas2.jpg,10,infantil,Dorado
+Spiderman Lejos de Casa,spiderman.jpg,12,accion,Dorado
+La Monja,lamonja.jpg,5,terror,Mall del Sol
+Murder Mistery,murdermistery.jpg,6,comedia,Mall del Sol
